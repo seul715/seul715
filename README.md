@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FEC260&center=true&vCenter=true&width=435&lines=%F0%9F%8E%BB+%EB%AA%A8%EB%B0%94%EC%9D%BC+%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8F%84+%EB%A7%A4%EB%81%84%EB%A0%A5%EA%B2%8C+%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94+%EB%B0%98%EC%9D%91%ED%98%95+%EC%BD%94%EB%93%9C;%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98+%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EA%B3%BC+%EA%B5%AC%EC%A1%B0;%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%A4%91%EC%8B%AC%EC%9D%98+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C!)
+<br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FEC260&center=true&vCenter=true&width=600&lines=%F0%9F%8E%BB+%EB%AA%A8%EB%B0%94%EC%9D%BC+%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8F%84+%EB%A7%A4%EB%81%84%EB%A0%A5%EA%B2%8C+%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94+%EB%B0%98%EC%9D%91%ED%98%95+%EC%BD%94%EB%93%9C;%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98+%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EA%B3%BC+%EA%B5%AC%EC%A1%B0;%EC%82%AC%EC%9A%A9%EC%9E%90+%
 
 
 </div>
