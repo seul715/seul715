@@ -24,9 +24,8 @@
 <img src="	https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <br/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FEC260&center=true&vCenter=true&width=435&lines=%EB%AA%A8%EB%B0%94%EC%9D%BC+%EB%B0%98%EC%9D%91%ED%98%95+%EC%BD%94%EB%93%9C;%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98+%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EA%B3%BC+%EA%B5%AC%EC%A1%B0;%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%A4%91%EC%8B%AC%EC%9D%98+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FEC260&center=true&vCenter=true&width=435&lines=%EB%AA%A8%EB%B0%94%EC%9D%BC+%EB%B0%98%EC%9D%91%ED%98%95+%EC%BD%94%EB%93%9C
-;%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98+%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1%EA%B3%BC+%EA%B5%AC%EC%A1%B0;%EC%82%AC%EC%9A%A9%EC%9E%90+%EC%A4%91%EC%8B%AC%EC%9D%98+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C!)
 
 </div>
 
